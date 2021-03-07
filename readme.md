@@ -27,7 +27,7 @@ B. Pokemon & Movement (Pikachu & Thunderbolt)
 C. Movie & Character (Spider-Man  & Peter Parker)
 ```
  Aggregation 
- - ( Movie & Actor ) movie akan tetap ada walaupun actornya tidak. 
+ - ( Movie & Actor ) movie akan tetap ada walaupun actornya tidak.  
  case spiderman actornya udah diganti 2 kali 👀
 
  Compostion 
