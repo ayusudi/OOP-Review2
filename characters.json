@@ -1,0 +1,24 @@
+{
+    "Bohemian Rhapsody": [
+      {
+        "name": "Freddie Mercury",
+        "characterType": "Protagonist"
+      }
+    ],
+    "Forrest Gump": [
+      {
+        "name": "Forrest Gump",
+        "characterType": "Protagonist"
+      }
+    ],
+    "Toy Story 3": [
+      {
+        "name": "Woody",
+        "characterType": "Protagonist"
+      },
+      {
+        "name": "Lotso",
+        "characterType": "Antagonist"
+      }
+    ]
+}

@@ -1,0 +1,3 @@
+Toy Story 3 => Animation, 100 minute, rating : 7.5
+Forrest Gump => Drama, 150 minute, rating : 8.5
+Bohemian Rhapsody => Drama, 120 minute, rating : 8, True story based on Freddie Mercury
